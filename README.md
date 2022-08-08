@@ -24,3 +24,6 @@ This individual project is a clone of the [You-Tube](https://www.youtube.com/) w
 
 * Single Video Page
 ![Single Video Page](https://user-images.githubusercontent.com/100181657/183447721-07a70554-9f31-422a-a1c0-da3d71c0db89.png)
+
+
+
