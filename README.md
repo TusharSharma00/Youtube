@@ -1,6 +1,6 @@
 # You-Tube Clone
 
-This individual project is a clone of the [You-Tube](https://www.youtube.com/) website. 
+This individual project is a clone of the [You-Tube](https://www.youtube.com/) website using Youtube API. 
 
 
 ## Deployed Site :
